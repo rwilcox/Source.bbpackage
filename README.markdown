@@ -24,7 +24,7 @@ Installation
     $ cd Library/Application\ Support/BBEdit/
     $ mkdir Packages # if it doesn't already exists
     $ cd Packages
-    $ git clone https://github.com/rwilcox/source.bbpackage.git
+    $ git clone https://github.com/rwilcox/Source.bbpackage.git
 
 And restart BBEdit.
 
