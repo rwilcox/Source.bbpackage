@@ -1,3 +1,3 @@
-#!/bin/env ruby
+#!/usr/bin/env ruby
 
 print "\"#{ARGF.read}\""
