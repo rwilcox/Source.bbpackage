@@ -21,8 +21,8 @@ Functionality from this package is partially inspired from the Source bundle in 
 Installation
 ============
 
-    $ cd Library/Application\ Support/BBEdit/
-    $ mkdir Packages # if it doesn't already exists
+    $ cd ~/Library/Application\ Support/BBEdit/
+    $ mkdir Packages # if it doesn't already exist
     $ cd Packages
     $ git clone https://github.com/rwilcox/Source.bbpackage.git
 
